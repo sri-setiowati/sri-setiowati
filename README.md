@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Sri
 
-<!--
-**sri-setiowati/sri-setiowati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I analyse how money moves through a business: how fast it comes in, where it gets stuck and what to chase first.
 
-Here are some ideas to get you started:
+Before data analytics I ran a building-materials store for 17 years, so receivables, inventory and supplier credit were daily problems, not textbook terms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- [Working Capital Radar](https://github.com/sri-setiowati/working-capital-radar): dbt, DuckDB and Power BI analysis of the cash conversion cycle of four IDX-listed building-materials companies.
+- [Receivables Radar](https://github.com/sri-setiowati/receivables-radar): collection dashboard demo for businesses that sell on credit. Free pilots open.
+- [Marketing Campaign ROI Analysis](https://github.com/sri-setiowati/marketing-campaign-roi-analysis)
+- [Olist E-commerce Analysis](https://github.com/sri-setiowati/olist-ecommerce-analysis)
+
+## Contact
+
+Roles and collaboration: [LinkedIn](https://linkedin.com/in/sri-setiowati)
+
+Receivables Radar pilots: [WhatsApp](https://wa.me/6285932888258)
